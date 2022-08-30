@@ -25,7 +25,7 @@
     "crypto": "^1.0.1",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "mongoose": "^5.6.6",
     "validatorjs": "^3.15.1"
   }
